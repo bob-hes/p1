@@ -1,0 +1,30 @@
+.sidebar{
+	top:0;
+	left:0;
+	position:fixed;
+
+
+	background-color: orange;
+}
+
+.sidebar-intro{
+	margin:0;
+	color:white;
+	text-align: center;
+}
+
+.sidebar img{
+	display:block;
+	margin:auto;
+	width:70%;
+	height:auto;
+}
+
+.projects{
+	margin-left: 34%;
+	padding:2em;
+}
+
+.project{
+	padding-bottom:2em;
+}
