@@ -24,6 +24,10 @@
 				<p>Dynamic Web Applications Course Portfolio</p>
 
 				<p>Why, hello there. It's seem you've stumbled upon my portfolio. Here you will find links to projects for the Dynamic Web Applications Course (CSCI-E 15) for the 2016 Spring Semester. Don't you worry about the unfinished links. Most of them will be coming soon as the semester goes by.</p>
+
+				<p>
+				The source code for this site is found here: <a target="_blank" src="https://github.com/bob-hes/p1"><img class="gitlink" /></a>
+				</p>
 			</div>
 		</div>
 
