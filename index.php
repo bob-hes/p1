@@ -39,17 +39,19 @@
 				</p>
 
 			</div>
+			<hr>
 			<div class="project">
 				<h1>Developer's Best Friend</h1> <a target="_blank" src=""><img class="gitlink" /></a>
 
 				<p>
-				Getting data to test out applications should not take up a chunk of time. In this application, the Lorem Ipsum Generator will create filler text to test out the textual display of a site.
+				Getting data to test out applications should no time. In this application, the Lorem Ipsum Generator will create filler text to test out the textual display of a site.
 				</p>
 				<p>
 				Also bundled with this application is the random user generator. Why spend too much time coming up with all these records in order to just test an application?
 				</p>
 
 			</div>
+			<hr>
 			<div class="project">
 				<h1>Final Project</h1> <a target="_blank" src=""><img class="gitlink" /></a>
 				Coming soon...
