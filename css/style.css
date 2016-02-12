@@ -3,12 +3,11 @@
 	left:0;
 	position:fixed;
 
-
 	background-color: orange;
 }
 
 .sidebar-intro{
-	margin:0;
+	margin:10% 1% 50% 1%;
 	color:white;
 	text-align: center;
 }
@@ -22,9 +21,16 @@
 
 .projects{
 	margin-left: 34%;
-	padding:2em;
+	padding:3em;
 }
 
 .project{
 	padding-bottom:2em;
+}
+
+.gitlink{
+	content:url("http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png");
+	width:20px;
+	height:auto;
+	display: inline-block;
 }

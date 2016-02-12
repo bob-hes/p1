@@ -29,13 +29,30 @@
 
 		<div class="pure-u-2-3 projects">
 			<div class="project">
-				Password Generator
+				<h1>Password Generator</h1> <a target="_blank" src=""><img class="gitlink" /></a>
+				
+				<p>
+				Inspired by <a href="https://xkcd.com/936/" target="_blank">this xkcd comic strip</a>, the password generator will spit out a password that will still be hard to break but will be easier to remember. 
+				</p>
+				<p>
+				Why have a password with so many letterings? Length over complication.
+				</p>
+
 			</div>
 			<div class="project">
-				Developer's Best Friend
+				<h1>Developer's Best Friend</h1> <a target="_blank" src=""><img class="gitlink" /></a>
+
+				<p>
+				Getting data to test out applications should not take up a chunk of time. In this application, the Lorem Ipsum Generator will create filler text to test out the textual display of a site.
+				</p>
+				<p>
+				Also bundled with this application is the random user generator. Why spend too much time coming up with all these records in order to just test an application?
+				</p>
+
 			</div>
 			<div class="project">
-				Final Project
+				<h1>Final Project</h1> <a target="_blank" src=""><img class="gitlink" /></a>
+				Coming soon...
 			</div>
 		</div>
 
