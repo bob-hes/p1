@@ -48,7 +48,7 @@
 				Inspired by <a href="https://xkcd.com/936/" target="_blank">this xkcd comic strip</a>, the password generator will spit out a password that will still be hard to break but will be easier to remember. 
 				</p>
 				<p>
-				Why have a password with so many letterings? Length over complication.
+				Why have a password with so many hard-to-remember special characters? Length over complication.
 				</p>
 
 			</div>
@@ -62,10 +62,10 @@
 				Coming soon...
 				</p>
 				<p>
-				Getting data to test out applications should no time. In this application, the Lorem Ipsum Generator will create filler text to test out the textual display of a site.
+				Getting data to test out applications should be no time. In this application, the Lorem Ipsum Generator will create filler text to test out the textual display of a site.
 				</p>
 				<p>
-				Also bundled with this application is the random user generator. Why spend too much time coming up with all these records in order to just test an application?
+				Also bundled with this application is the Random User Generator. Why spend too much time coming up with test records?
 				</p>
 
 			</div>
