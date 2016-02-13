@@ -7,13 +7,17 @@ a {
 	left:0;
 	position:fixed;
 
-	background-color: orange;
+	background-color: #FF8900;
 }
 
 .sidebar-intro{
-	margin:10% 1% 50% 1%;
+	margin:10% 2em 50% 2em;
 	color:white;
 	text-align: center;
+}
+
+.sidebar-intro h1{
+	margin:0px;
 }
 
 .sidebar img{
@@ -21,6 +25,11 @@ a {
 	margin:auto;
 	width:70%;
 	height:auto;
+}
+
+.sidebar-intro-msg{
+	text-align: left;
+	align:justify;
 }
 
 .projects{
@@ -32,8 +41,7 @@ a {
 	padding-bottom:2em;
 }
 
-.gitlink{
-	content:url("http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png");
+#sidebar-intro-gitlink, .gitlink{
 	width:20px;
 	height:auto;
 	display: inline-block;
