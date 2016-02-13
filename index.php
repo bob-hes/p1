@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
+		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 		<title>Bob Saludo DWA P1 Portfolio</title>
@@ -18,7 +19,7 @@
 
 			<div class="sidebar-intro">
 				
-				<img src="images/selfie.png" />
+				<img src="images/selfie.png" alt="picture of me" />
 				
 				<h1>Bob Saludo</h1>
 				<p>Dynamic Web Applications Course Portfolio</p>
@@ -28,7 +29,7 @@
 				<p>
 				The source code for this site is found here: 
 				<a target="_blank" href="https://github.com/bob-hes/p1">
-					<img src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" id="sidebar-intro-gitlink" />
+					<img id="sidebar-intro-gitlink" src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" alt="Git Link" />
 				</a>
 				</p>
 			</div>
