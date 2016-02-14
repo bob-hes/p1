@@ -38,7 +38,7 @@
 		<div class="pure-u-2-3 projects">
 			<div class="project">
 				<h1>
-					<a target="_blank" href="p2.bobsaludo.me">
+					<a target="_blank" href="http://p2.bobsaludo.me">
 						Password Generator
 					</a>
 					<a target="_blank" href="https://github.com/bob-hes/p2">
@@ -60,7 +60,7 @@
 			<hr>
 			<div class="project">
 				<h1>
-					<a target="_blank" href="p3.bobsaludo.me">
+					<a target="_blank" href="http://p3.bobsaludo.me">
 						Developer's Best Friend 
 					</a>
 					
@@ -83,7 +83,7 @@
 			<hr>
 			<div class="project">
 				<h1>
-					<a target="_blank" href="p4.bobsaludo.me">
+					<a target="_blank" href="http://p4.bobsaludo.me">
 						Final Project
 					</a>
 
