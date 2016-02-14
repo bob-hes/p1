@@ -1,0 +1,19 @@
+body{
+	background-color: black;
+	color:white;
+	text-align: center;
+	font-family: sans-serif;
+}
+
+.wrapper{
+	width:80%;
+	margin:0 auto;
+}
+
+#hdr404{
+	font-size:3em;
+}
+#img404 {
+	width:50%;
+	height:auto;
+}
