@@ -2,12 +2,21 @@ a {
 	text-decoration: none;
 }
 
+.project h1 a{
+	color:black;
+}
+
+.project h1 a:hover{
+	text-decoration: underline;
+}
+
 .sidebar{
 	top:0;
 	left:0;
 	position:fixed;
 
 	background-color: #FF8900;
+	box-shadow: 1px 1px 10px 5px rgba(192, 192, 192, 0.53);
 }
 
 .sidebar-intro{
