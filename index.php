@@ -47,7 +47,7 @@
 				</h1> 
 
 				<em>
-				Completed by Feb. 18
+				Complete by Feb. 18
 				</em>
 				<p>
 				Inspired by <a href="https://xkcd.com/936/" target="_blank">this xkcd comic strip</a>, the Password Generator will spit out a password that will still be hard to break but will be easier to remember. 
@@ -70,7 +70,7 @@
 				</h1>
 
 				<em>
-				Completed by Mar. 31
+				Complete by Mar. 31
 				</em>
 				<p>
 				Getting data to test out applications should take no time. In this application, the Lorem Ipsum Generator will create filler text to test out the textual display of a site.
@@ -93,7 +93,7 @@
 				</h1>
 
 				<em>
-				Completed by Apr. 28
+				Complete by Apr. 28
 				</em>
 
 				<p>
