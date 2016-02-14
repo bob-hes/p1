@@ -42,7 +42,7 @@
 						Password Generator
 					</a>
 					<a target="_blank" href="https://github.com/bob-hes/p2">
-						<img id="sidebar-intro-gitlink" src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" alt="Git Link" />
+						<img class="gitlink" src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" alt="Git Link" />
 					</a>
 				</h1> 
 
@@ -65,7 +65,7 @@
 					</a>
 					
 					<a target="_blank" href="https://github.com/bob-hes/p3">
-						<img id="sidebar-intro-gitlink" src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" alt="Git Link" />
+						<img class="gitlink" src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" alt="Git Link" />
 					</a>
 				</h1>
 
@@ -83,12 +83,12 @@
 			<hr>
 			<div class="project">
 				<h1>
-					<a target="_blank" href="http://p4.bobsaludo.me">
+					<a target="_blank" href="http://gp4.bobsaludo.me">
 						Final Project
 					</a>
 
 					<a target="_blank" href="https://github.com/bob-hes/p4">
-						<img id="sidebar-intro-gitlink" src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" alt="Git Link" />
+						<img class="gitlink" src="http://img11.deviantart.net/b290/i/2012/223/4/3/github_flurry_ios_style_icon_by_flakshack-d5ariic.png" alt="Git Link" />
 					</a>
 				</h1>
 
